@@ -1,0 +1,9 @@
+img, video, iframe{
+    width: 100% !important;
+}
+.video{
+    height: 20rem;
+}
+.text-justify{
+    text-align: justify;
+}
