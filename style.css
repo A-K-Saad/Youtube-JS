@@ -7,3 +7,12 @@ img, video, iframe{
 .text-justify{
     text-align: justify;
 }
+@media only screen and (max-width: 688px){
+    .input-group{
+        width: 100% !important;
+    }
+    
+    .video{
+        height: 12rem;
+    }
+}
